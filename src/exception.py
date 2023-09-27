@@ -21,7 +21,7 @@ class CustomException(Exception):
         return self.error_message
     
 
-
+'''
 # Testing if exception.py is working
 if __name__ == "__main__":
     try:
@@ -29,3 +29,4 @@ if __name__ == "__main__":
     except Exception as e:
         logging.info("Division by zero error")
         raise CustomException(str(e), sys.exc_info())
+        '''
