@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datase
 https://studentsmathscoreprediction.azurewebsites.net/
 
 # Screenshot of UI
-![HomepageUI](./Screenshots/1.png)
+![HomepageUI](./screenshots/layout.png)
 
 # Approach for the project 
 
@@ -52,7 +52,7 @@ https://studentsmathscoreprediction.azurewebsites.net/
     * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/EDA_STUDENT_PERFORMANCE .ipynb)
+Link : [EDA Notebook](./notebook/EDA_STUDENT_PERFORMANCE.ipynb)
 
 # Model Training Approach Notebook
 
