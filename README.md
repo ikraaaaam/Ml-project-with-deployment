@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/spscientist/students-performance-in-exams?datase
 https://studentsmathscoreprediction.azurewebsites.net/
 
 # Screenshot of UI
-![HomepageUI](./screenshots/layout.png)
+![HomepageUI](./screenshots/layout.PNG)
 
 # Approach for the project 
 
