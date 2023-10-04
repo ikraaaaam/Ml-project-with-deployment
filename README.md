@@ -52,9 +52,9 @@ https://studentsmathscoreprediction.azurewebsites.net/
     * Flask app is created with User Interface to predict the gemstone prices inside a Web Application.
 # Exploratory Data Analysis Notebook
 
-Link : [EDA Notebook](./notebook/1 . EDA STUDENT PERFORMANCE .ipynb)
+Link : [EDA Notebook](./notebook/EDA_STUDENT_PERFORMANCE .ipynb)
 
 # Model Training Approach Notebook
 
-Link : [Model Training Notebook](./notebook/2. MODEL TRAINING.ipynb)
+Link : [Model Training Notebook](./notebook/MODEL_TRAINING.ipynb)
 
